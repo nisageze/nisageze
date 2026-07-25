@@ -2,7 +2,7 @@
 <h3 align="center">🌟 Just a girl who loves learning and coding.</h3>
 
 
-- 🔭 I’m currently working on [Forex-Analyzer](https://github.com/nisageze/forex-analyzer)
+- 🔭 I’m currently working on [Forex-Analyzer]
 
 - 🌱 I’m currently learning **React, PostgreSQL, Neovim, Docker**
 
