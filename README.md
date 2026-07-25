@@ -11,7 +11,6 @@ I build self-hosted systems, document the process, and publish what I learn.
 
 | Project | Description | Stack |
 |---|---|---|
-| [taskr](https://github.com/nisageze/taskr) | CLI task manager with strict typing and full test coverage | Python, pytest |
 | [medvault](#) | Local-first medicine tracker with on-device encryption | Flutter, SQLCipher |
 | [homelab](#) | Self-hosted infrastructure — documented build series | Proxmox, Docker, Grafana |
 
